@@ -32,6 +32,25 @@
     <div>
       <header>
         <h1>Akshay</h1>
+        <p id="bio"></p>
+        <script>
+          
+          var bios = ["Overcorrecting", 
+          "Trying my best @nurobots",
+          "Mostly joking",
+          "I like bad ideas and quick feedback loops",
+          "Sometimes there's just a feeling",
+          "I make bad decisions under no pressure",
+          "I design and implement software/ml systems", 
+          "I like to read think and code",
+          "Taller and dumber than I look",
+          "I just like math",
+          "'Take a moment to figure out whether you'd rather be praiseworthy but not praised, or praised but not praiseworthy.' - Nassim Taleb"];
+          const random = Math.floor(Math.random() * bios.length);
+
+          document.getElementById("bio").innerHTML = bios[random];
+        </script>
+
         <img src="stuff/image.png" alt="Smiley face" style="width:200px">
         <br>
         <a href = "mailto:akshayvegesna@gmail.com">
@@ -56,7 +75,6 @@
       <section>
         <h1>Posts</h1>
         <a href="posts/reading_list.html">Reading list</a><br>
-        <a href="posts/bio.html">Bio</a>
         <br>
       </section>
   </body>
