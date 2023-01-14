@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Akshay Vegesna</title>
-    <link>http://akshayvegesna.com/</link>
+    <link>http://akshayvegesna.github.io/</link>
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://akshayvegesna.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://akshayvegesna.com/archives/</link>
+      <link>http://akshayvegesna.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://akshayvegesna.com/archives/</guid>
+      <guid>http://akshayvegesna.github.io/archives/</guid>
       <description></description>
     </item>
     

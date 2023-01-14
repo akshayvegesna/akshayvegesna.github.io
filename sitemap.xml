@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://akshayvegesna.com/archives/</loc>
+    <loc>http://akshayvegesna.github.io/archives/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://akshayvegesna.com/</loc>
+    <loc>http://akshayvegesna.github.io/</loc>
   </url><url>
-    <loc>http://akshayvegesna.com/categories/</loc>
+    <loc>http://akshayvegesna.github.io/categories/</loc>
   </url><url>
-    <loc>http://akshayvegesna.com/tags/</loc>
+    <loc>http://akshayvegesna.github.io/tags/</loc>
   </url>
 </urlset>
