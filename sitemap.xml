@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://akshayvegesna.github.io/</loc>
+    <lastmod>2023-01-14T12:50:33-08:00</lastmod>
+  </url><url>
+    <loc>http://akshayvegesna.github.io/posts/</loc>
+    <lastmod>2023-01-14T12:50:33-08:00</lastmod>
+  </url><url>
+    <loc>http://akshayvegesna.github.io/posts/230114_links/</loc>
+    <lastmod>2023-01-14T12:50:33-08:00</lastmod>
+  </url><url>
     <loc>http://akshayvegesna.github.io/about/</loc>
     <lastmod>2023-01-14T10:17:06-08:00</lastmod>
   </url><url>
-    <loc>http://akshayvegesna.github.io/</loc>
+    <loc>http://akshayvegesna.github.io/archive/</loc>
   </url><url>
     <loc>http://akshayvegesna.github.io/categories/</loc>
   </url><url>
