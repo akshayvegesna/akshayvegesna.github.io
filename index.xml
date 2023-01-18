@@ -5,17 +5,7 @@
     <link>http://akshayvegesna.github.io/</link>
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 12:50:33 -0800</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Saturday links</title>
-      <link>http://akshayvegesna.github.io/posts/230114_links/</link>
-      <pubDate>Sat, 14 Jan 2023 12:50:33 -0800</pubDate>
-      
-      <guid>http://akshayvegesna.github.io/posts/230114_links/</guid>
-      <description> Alan kay on learning/beginners mind https://www.youtube.com/watch?v=50L44hEtVos Computational irreducibility https://www.wolframscience.com/nks/p737--computational-irreducibility/ Self https://substack.com/inbox/post/96609451 Understanding https://substack.com/inbox/post/96573452 Dreamer v3 https://arxiv.org/pdf/2301.04104v1.pdf </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://akshayvegesna.github.io/about/</link>
@@ -24,7 +14,7 @@
       <guid>http://akshayvegesna.github.io/about/</guid>
       <description>Hi, I&amp;rsquo;m Akshay. I&amp;rsquo;m an engineer living in San Francisco, CA.
 Some background details:
-I grew up in San Jose, CA and Bangalore, India Went to Caltech Currently work on perception at Nuro focusing on using machine learning to track objects My current focus is on developing software that utilizes machine learning models to generate value for users. I have a demonstrated track record on all parts of the machine learning stack.</description>
+I grew up in San Jose, CA and Bangalore, India Went to Caltech Currently work on perception at Nuro focusing on using machine learning to track objects I am a machine learning engineer with experience across the stack. My current focus is on developing software that leverages ML models to provide value to users. I am particularly interested in areas such as self-driving cars, video editing, code generation, writing assistants, new interfaces for idea generation, and automating computers.</description>
     </item>
     
     
