@@ -5,7 +5,18 @@
     <link>http://akshayvegesna.github.io/</link>
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 11:08:11 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motivation</title>
+      <link>http://akshayvegesna.github.io/posts/mot/</link>
+      <pubDate>Fri, 31 Mar 2023 11:08:11 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/mot/</guid>
+      <description>As a creator, the desire to execute is one of the most important things to cultivate for one&amp;rsquo;s self. You can have months pass when you&amp;rsquo;re in an execution state, you feel indefatigable, things get done week after week, culminating in an impressive work product. This is why you work.
+But then there are other times when you feel blocked. You wake up in the morning, make no real progress, and go to bed.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>http://akshayvegesna.github.io/about/</link>
@@ -14,7 +25,7 @@
       <guid>http://akshayvegesna.github.io/about/</guid>
       <description>Hi, I&amp;rsquo;m Akshay. I&amp;rsquo;m an engineer living in San Francisco, CA.
 Some background details:
-I grew up in San Jose, CA and Bangalore, India Went to Caltech Currently work on perception at Nuro focusing on using machine learning to track objects I am a machine learning engineer with experience across the stack. My current focus is on developing software that leverages ML models to provide value to users. I am particularly interested in areas such as self-driving cars, video editing, code generation, writing assistants, new interfaces for idea generation, and automating computers.</description>
+Grew up in San Jose, CA and Bangalore, India Went to Caltech Worked on the perception team at Nuro, where I rebuilt the tracking system with neural networks I am a machine learning engineer with experience across the stack. I like to work fast and build software that people use.</description>
     </item>
     
     
