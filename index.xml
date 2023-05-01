@@ -6,7 +6,16 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2023 11:08:11 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 22:38:37 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Ride-sharing Markets</title>
+      <link>http://akshayvegesna.github.io/posts/ars/</link>
+      <pubDate>Sun, 30 Apr 2023 22:38:37 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/ars/</guid>
+      <description>Billions of dollars have been spent on autonomous vehicles in the last decade but we have only recently seen the customer value on the other end. You can now hail Waymo and Cruise as a ride-sharing service in San Francisco. Technologists look at this and see a grand achievement. But business people sneer at the black box of autonomous vehicles sucking in tens of billions of dollars with so little to show in return.</description>
+    </item>
+    
     <item>
       <title>Motivation</title>
       <link>http://akshayvegesna.github.io/posts/impl/mot/</link>
@@ -25,7 +34,8 @@ But then there are other times when you feel blocked. You wake up in the morning
       <guid>http://akshayvegesna.github.io/about/</guid>
       <description>Hi, I&amp;rsquo;m Akshay. I&amp;rsquo;m an engineer living in San Francisco, CA.
 Some background details:
-Grew up in San Jose, CA and Bangalore, India Went to Caltech Worked on the perception team at Nuro, where I rebuilt the tracking system with neural networks I am a machine learning engineer with experience across the stack. I like to work fast and build software that people love to use.</description>
+Grew up in San Jose, CA and Bangalore, India Went to Caltech Worked on the perception team at Nuro, where I rebuilt the tracking system with neural networks I am a machine learning engineer with experience across the stack. I like to work fast and build software that people love to use.
+I like to understand and write about technology markets.</description>
     </item>
     
     
