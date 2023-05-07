@@ -6,7 +6,17 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2023 22:38:37 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 13:04:28 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI&#39;s Dominance in the Intelligence API Market</title>
+      <link>http://akshayvegesna.github.io/posts/openai/</link>
+      <pubDate>Sun, 07 May 2023 13:04:28 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/openai/</guid>
+      <description>When asked why they don&amp;rsquo;t train their own models, many new LLM product companies might respond with a smile and a well-practiced &amp;lsquo;GPT-4 works pretty well for our use-case.&amp;rsquo; Beneath this response, there are two underlying risks that these companies must confront
+technical execution risk to train one&amp;rsquo;s own LLMs, and product risk in order to make something people want. The technical risk shouldn&amp;rsquo;t be understated. Many ML product companies are made by people in different industries: think lawyers, marketers, etc.</description>
+    </item>
+    
     <item>
       <title>Autonomous Ride-sharing Markets</title>
       <link>http://akshayvegesna.github.io/posts/ars/</link>
