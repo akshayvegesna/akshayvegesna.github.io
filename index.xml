@@ -6,14 +6,25 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 13:04:28 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 21:51:53 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compete</title>
+      <link>http://akshayvegesna.github.io/posts/impl/compete/</link>
+      <pubDate>Sat, 20 May 2023 21:51:53 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/impl/compete/</guid>
+      <description>&amp;ldquo;I&amp;rsquo;d rather wrestle grizzlies than compete with Mrs. B.&amp;rdquo; - Warren Buffett
+Some people are so good that you know they will do something great. Here we discuss the components of this in a famously good founder - Rose Blumkin. We&amp;rsquo;ll go through some of her exemplary qualities and go through some evidence. Much of this is take taken from the excellent Founder&amp;rsquo;s podcast on the subject.
+Intrinsic drive + determination</description>
+    </item>
+    
     <item>
       <title>OpenAI&#39;s Dominance in the Intelligence API Market</title>
       <link>http://akshayvegesna.github.io/posts/openai/</link>
       <pubDate>Sun, 07 May 2023 13:04:28 -0700</pubDate>
       
       <guid>http://akshayvegesna.github.io/posts/openai/</guid>
-      <description>When asked why they don&amp;rsquo;t train their own models, many new LLM product companies might respond with a smile and a well-practiced &amp;lsquo;GPT-4 works pretty well for our use-case.&amp;rsquo; Beneath this response, there are two underlying risks that these companies must confront
+      <description>When asked why they don&amp;rsquo;t train their own models, new LLM product companies might respond with a smile and a well-practiced &amp;lsquo;GPT-4 works pretty well for our use-case.&amp;rsquo; Beneath this response, there are two underlying risks that these companies must confront
 technical execution risk to train one&amp;rsquo;s own LLMs, and product risk in order to make something people want. The technical risk shouldn&amp;rsquo;t be understated. Many ML product companies are made by people in different industries: think lawyers, marketers, etc.</description>
     </item>
     
