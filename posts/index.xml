@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 21:51:53 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 20:53:26 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laws of Preferences</title>
+      <link>http://akshayvegesna.github.io/posts/pref/</link>
+      <pubDate>Mon, 12 Jun 2023 20:53:26 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/pref/</guid>
+      <description>Creating general laws in the real world is hard. Watch a Y Combinator (YC) youtube video with advice or talk to a VC, and you&amp;rsquo;ll hear confident advice about some startup subproblems. And the advice is regularly valuable. But occasionally, you&amp;rsquo;ll listen to a heuristic that is not well qualified or appropriately followed up with the indispensable, &amp;ldquo;but this is just a data point.&amp;rdquo; And you&amp;rsquo;ll ask yourself whether you should change course based on the advice.</description>
+    </item>
+    
     <item>
       <title>Compete</title>
       <link>http://akshayvegesna.github.io/posts/impl/compete/</link>
