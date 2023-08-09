@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jul 2023 23:12:28 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 19:56:02 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>companies worth creating</title>
+      <link>http://akshayvegesna.github.io/posts/create/</link>
+      <pubDate>Tue, 08 Aug 2023 19:56:02 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/create/</guid>
+      <description>George Hotz had a great talk at Comma Con in which he said:
+Build companies that will change the future, not the distribution of wealth in the future.
+That&amp;rsquo;s a nice line. Some products are in crowded spaces that were just a matter of time - the nth frontend authentication product might be one. These will materially change the distribution of wealth in the future but not the future itself.</description>
+    </item>
+    
     <item>
       <title>blinders off</title>
       <link>http://akshayvegesna.github.io/posts/blinders/</link>
