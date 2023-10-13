@@ -6,7 +6,17 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2023 00:14:41 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 09:29:58 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Correct Prediction</title>
+      <link>http://akshayvegesna.github.io/posts/pred/</link>
+      <pubDate>Fri, 13 Oct 2023 09:29:58 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/pred/</guid>
+      <description>I am obsessed with the predictions that GPT-4 or something like it was coming in the early 2020s. Ray Kurzweil was able to predict this in 2005.
+The simple reasoning is this. The model architecture for a computer, like the human brain, is not hard to find. Moore&amp;rsquo;s law will not bend, so we will have compute at the level of the human brain by 2020-2025. So we can make a computer like a human brain around this time.</description>
+    </item>
+    
     <item>
       <title>Notes on How We Know - Harry Binswanger</title>
       <link>http://akshayvegesna.github.io/posts/know/</link>
