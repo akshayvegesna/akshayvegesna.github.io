@@ -6,7 +6,18 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jan 2024 10:11:17 -0800</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 09:51:16 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>explaining experiment results</title>
+      <link>http://akshayvegesna.github.io/posts/explain/</link>
+      <pubDate>Wed, 03 Apr 2024 09:51:16 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/explain/</guid>
+      <description>An important job of a scientist is to explain results of experiments. Once you have an explanation, you can design further experiments. Without good explanations, you will design bad experiments and fail.
+Using Bayes rule, the formula for an explanation given results of experiments is:
+P(explanation | experiment_results) = P(experiment_results | explanation) * P(explanation) / P(experiment_results) = P (experiment_results | explanation) * P(explanation) / \sum_{explanation_i}^{all_explanations} P(experiment_result | explanation_i) P(explanation_i) Ok so what does it mean?</description>
+    </item>
+    
     <item>
       <title>Obvious things in hindsight</title>
       <link>http://akshayvegesna.github.io/posts/obvious/</link>
