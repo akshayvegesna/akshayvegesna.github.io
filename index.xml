@@ -6,7 +6,16 @@
     <description>Recent content on Akshay Vegesna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2024 09:51:16 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 10:31:09 -0700</lastBuildDate><atom:link href="http://akshayvegesna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Thresholds</title>
+      <link>http://akshayvegesna.github.io/posts/thresh/</link>
+      <pubDate>Mon, 29 Apr 2024 10:31:09 -0700</pubDate>
+      
+      <guid>http://akshayvegesna.github.io/posts/thresh/</guid>
+      <description>In 2016, optimistic founders thought that general self-driving cars were 2-3 years away. In 2024, we don&amp;rsquo;t have general self-driving cars. What happened? General self-driving cars are bottlenecked by the intelligence of the autonomy system. Founders thought that they just needed intelligence level x, but they actually needed (a) a scalable algorithm to get intelligence from compute, and (b) an intelligence level 5x. (number made up) Both were not possible at the time.</description>
+    </item>
+    
     <item>
       <title>explaining experiment results</title>
       <link>http://akshayvegesna.github.io/posts/explain/</link>
